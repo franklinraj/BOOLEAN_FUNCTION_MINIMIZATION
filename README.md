@@ -56,11 +56,13 @@ endmodule
 ```
 **RTL realization**
 
-**Output:**
+# Output:
+![Screenshot 2024-04-28 194053](https://github.com/franklinraj/BOOLEAN_FUNCTION_MINIMIZATION/assets/148993740/d1b8c7b7-a2bc-4dfd-872e-66846c85df5f)
 
-**RTL**
 
 **Timing Diagram**
+![Screenshot 2024-04-28 194118](https://github.com/franklinraj/BOOLEAN_FUNCTION_MINIMIZATION/assets/148993740/c2d74115-b821-4376-a62f-8f18752553c7)
+![Screenshot 2024-04-28 194133](https://github.com/franklinraj/BOOLEAN_FUNCTION_MINIMIZATION/assets/148993740/306d02d5-0370-46d7-ac1b-f6a8b4c4da25)
 
 **Result:**
 
